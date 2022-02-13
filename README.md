@@ -46,11 +46,12 @@
 - PyTgCalls
 
 #### Special Credits
--.[harsha](https://t.me/harshahero) owner
+- [harsha](https://t.me/harshahero) owner
 - [Subhanahu](https://t.me/Shubhanshutya)
 - [Sammy](https://t.me/OpFriDay)
 - [Abhi](https://t.me/VEXERA_MUSICS)
 - [Rock](https://t.me/ROCKSTAR_XDD)
+- [BOT DUNIYA](https://github.com/AMANTYA1/RaiChu-music)
 
 ### Support & Updates 
 <a href="https://t.me/SENKUCHAT"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/SENKUBOTS"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
