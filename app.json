@@ -1,15 +1,15 @@
 {
-    "name": "RaiChu Music Bot",
+    "name": "senku Music Bot",
     "description": "Telegram bot for Streaming  Music trought the Telegram Group Video Chat, powered by pytgcalls and pyrogram",
-    "logo": "https://telegra.ph/file/1c41ded2dd871eb36bd7e.png",
+    "logo": "https://telegra.ph/file/b586c33d0764025d5c93d.jpg",
     "keywords": [
         "pytgcalls",
         "telegram bot",
         "pyrogram"
     ],
-    "website": "https://t.me/RaiChuUpdate",
-    "repository": "https://github.com/RaiChuXD/RaiChuMusic",
-    "success_url": "https://t.me/RaiChuXD",
+    "website": "https://t.me/RAICHUNETWORK",
+    "repository": "https://github.com/Devilharsha/Senku-video-and-music-player",
+    "success_url": "https://t.me/SENKUBOTS",
     "env": {
         "API_ID": {
             "description": "your API_ID from my.telegram.org",
@@ -46,22 +46,22 @@
         "GROUP_SUPPORT": {
             "description": "if you have group, then fill the group username here without @",
             "required": false,
-            "value": "RaiChuOfficial"
+            "value": "SENKUCHAT"
         },
         "UPDATES_CHANNEL": {
             "description": "if you have channel, then fill the channel username here without @",
             "required": false,
-            "value": "RaiChuUpdate"
+            "value": "SENKUBOTS"
         },
         "OWNER_NAME": {
             "description": "fill with your telegram account username without @",
             "required": false,
-            "value": "RaiChuXD"
+            "value": "harshahero"
         },
         "ALIVE_NAME": {
             "description": "fill with your telegram account nickname/name",
             "required": false,
-            "value": "RaiChuXMusic"
+            "value": "SenkuXMusic"
         }
     },
     "addons": [],
