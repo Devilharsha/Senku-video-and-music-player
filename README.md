@@ -46,6 +46,7 @@
 - PyTgCalls
 
 #### Special Credits
+-.[harsha](https://t.me/harshahero) owner
 - [Subhanahu](https://t.me/Shubhanshutya)
 - [Sammy](https://t.me/OpFriDay)
 - [Abhi](https://t.me/VEXERA_MUSICS)
